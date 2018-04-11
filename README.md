@@ -5,3 +5,5 @@ This repository improves the traditional ways to build recommender systems in th
 
 1. Contented Based filtering: adopt radial support vector machines
 2. Collaborative filtering: adopt Alternative Least Square with bias
+
+Datasets are available at: https://grouplens.org/datasets/movielens/
